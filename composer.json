@@ -1,0 +1,17 @@
+{
+    "name": "sportelli/packages",
+    "description": "Projet de test pour la formation",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Felix SPORTELLI",
+            "email": "felix@sportelli.capital"
+        }
+    ],
+    "autoload" : {
+        "psr-4": {
+            "FormationPHP\\" : "src/"
+        }
+    },
+    "require": {}
+}
